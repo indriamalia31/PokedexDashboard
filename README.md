@@ -42,9 +42,9 @@ Berikut adalah checklist implementasi fitur yang berhasil dikembangkan di dalam 
 ## 📱 Dokumentasi State UI (Screenshot dari HP Fisik)
 [cite_start]*(Silakan ganti nama file gambar di bawah ini dengan file screenshot asli dari HP kamu yang ditaruh di folder project sebelum melakukan push)* [cite: 56, 61]
 
-1. [cite_start]**Loading State:** ![Loading State](loading.jpg) [cite: 61]
-2. [cite_start]**Success State:** ![Success State](success.jpg) [cite: 61]
-3. [cite_start]**Error State:** ![Error State](error.jpg) [cite: 61]
+1. [cite_start]**Loading State:** ![Loading State](https://github.com/indriamalia31/PokedexDashboard/blob/main/assets/Loading.jpeg) [cite: 61]
+2. [cite_start]**Success State:** ![Success State](https://github.com/indriamalia31/PokedexDashboard/blob/main/assets/success.jpeg) [cite: 61]
+3. [cite_start]**Error State:** ![Error State](https://github.com/indriamalia31/PokedexDashboard/blob/main/assets/Error.jpeg) [cite: 61]
 
 ---
 
@@ -54,5 +54,5 @@ Ikuti langkah-langkah berikut untuk menjalankan project di perangkat lokal Anda:
 
 1. **Clone Repository:**
    ```bash
-   git clone [https://github.com/username-kamu/PokedexDashboard.git](https://github.com/username-kamu/PokedexDashboard.git)
+   git clone [https://snack.expo.dev/@indriamalia31/328249)
    cd PokedexDashboard
